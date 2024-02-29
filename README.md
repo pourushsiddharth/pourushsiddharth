@@ -47,12 +47,6 @@ Here's a fun fact about me: I respond slowly. But rest assured, I'll always get 
   <img src="https://github-profile-trophy.vercel.app/?username=pourushsiddharth&theme=algolia" alt="GitHub Profile Trophy" />
 </div>
 
-## 🌟 Repository Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pourushsiddharth&repo=filmies&theme=algolia" alt="Filmies Repository" />
-</div>
-
 ## 📊 Languages and Tools
 
 <div align="center">
