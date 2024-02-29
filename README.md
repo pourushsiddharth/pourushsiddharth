@@ -47,29 +47,6 @@ Here's a fun fact about me: I respond slowly. But rest assured, I'll always get 
   <img src="https://github-profile-trophy.vercel.app/?username=pourushsiddharth&theme=algolia" alt="GitHub Profile Trophy" />
 </div>
 
-## 📊 Contributions Calendar
-
-<div align="center">
-  <img src="https://github.com/pourushsiddharth/pourushsiddharth/blob/main/assets/github-contribution-calendar.png" alt="Contributions Calendar" />
-</div>
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=pourushsiddharth&bg_color=ffffff&color=4A90E2&line=357ABD&point=000000&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-## 📉 Code Frequency Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/punch-card?username=pourushsiddharth&theme=algolia" alt="Code Frequency Graph" />
-</div>
-
-## 🌟 Repository Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pourushsiddharth&repo=filmies&theme=algolia" alt="Filmies Repository" />
-</div>
 
 ## 📊 Languages and Tools
 
