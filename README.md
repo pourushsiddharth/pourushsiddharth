@@ -6,7 +6,7 @@
 <h3 align="center">Code, Deploy, Repeat</h3>
 
 <p align="center"> 
-  <a href="https://twitter.com/pourushsidd" target="blank"><img src="https://img.shields.io/twitter/follow/pourushsid?logo=twitter&style=for-the-badge" alt="pourushsid" /></a> 
+  <a href="https://twitter.com/pourushsidd" target="blank"><img src="https://img.shields.io/twitter/follow/pourushsidd?logo=twitter&style=for-the-badge" alt="pourushsidd" /></a> 
   <a href="https://www.linkedin.com/in/pourushsiddharth" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="pourushsid" /></a>
 
 </p>
