@@ -7,6 +7,8 @@
 
 <p align="center"> 
   <a href="https://twitter.com/pourushsid" target="blank"><img src="https://img.shields.io/twitter/follow/pourushsid?logo=twitter&style=for-the-badge" alt="pourushsid" /></a> 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pourushsiddharth)
+
 </p>
 
 ## About Me ℹ️
