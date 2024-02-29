@@ -1,4 +1,5 @@
 <div align="center">
+  <!--<img width="500px" src="https://github.com/pourushsiddharth/pourushsiddharth/blob/main/profile.png" alt="Banner">-->
   <img width="500px" src="https://github.com/pourushsiddharth/pourushsiddharth/blob/main/banner.png" alt="Banner">
 </div>
 
