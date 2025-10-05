@@ -1,14 +1,18 @@
 <div align="center">
-<img src="https://github.com/pourushsiddharth/pourushsiddharth/blob/main/banner.png" alt="Pourush Siddharth - Software Developer Banner">
+  <img src="https://github.com/pourushsiddharth/pourushsiddharth/blob/main/banner.png" alt="Pourush Siddharth - Software Developer Banner">
 </div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">, I'm Pourush Siddharth</h1>
-<h3 align="center">Passionate Software Developer | Code, Deploy, Repeat</h3>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">, I'm Pourush Siddharth
+</h1>
+
+<h3 align="center">
+  Passionate Software Developer | Code, Deploy, Repeat
+</h3>
 
 <p align="center">
   <a href="https://twitter.com/pourushsidd" target="blank"><img src="https://img.shields.io/twitter/follow/pourushsidd?logo=twitter&style=for-the-badge" alt="Follow @pourushsidd on Twitter" /></a>
   <a href="https://www.linkedin.com/in/pourushsiddharth" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect with Pourush Siddharth on LinkedIn" /></a>
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=pourushsiddharth&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
@@ -44,14 +48,16 @@ Hey there! 👋 I'm Pourush Siddharth, a passionate software developer with a kn
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pourushsiddharth&repo=cloud&theme=algolia&show_owner=true" alt="Personal Cloud Project">
   </a>
 <!--   <a href="https://github.com/pourushsiddharth/emotional-mapping" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pourushsiddharth&repo=emotional-mapping&theme=algolia&show_owner=true" alt="Emotional Mapping System">
+    <img alt="Emotional Mapping System">
   </a> -->
   <a href="https://github.com/pourushsiddharth/Filmies" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pourushsiddharth&repo=Filmies&theme=algolia&show_owner=true" alt="Filmies OTT Platform">
   </a>
 </div>
+
 <p align="center">
-  <a href="https://github.com/pourushsiddharth?tab=repositories" target="_blank">➡️ View All My Repositories</a>
+  <a href="https://github.com/pourushsiddharth?tab=repositories" target="_blank">
+➡️ View All My Repositories</a>
 </p>
 
 ---
@@ -60,16 +66,25 @@ Hey there! 👋 I'm Pourush Siddharth, a passionate software developer with a kn
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pourushsiddharth&show_icons=true&locale=en&theme=algolia&count_private=true" alt="Pourush Siddharth's GitHub Stats" />
-  <br/><br/>
+  <br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourushsiddharth&layout=compact&theme=algolia" alt="Top Languages" />
-  <br/><br/>
+  <br/>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pourushsiddharth&theme=algolia" alt="GitHub Streak Stats" />
-  <br/><br/>
+  <br/>
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=pourushsiddharth&theme=algolia&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
 </div>
 
 ---
 
 <div align="center">
-  <p>Thanks for stopping by! Feel free to connect with me and explore my projects. Let's build something amazing together! 🚀</p>
+  <p>
+Thanks for stopping by! Feel free to connect with me and explore my projects. Let's build something amazing together! 🚀
+</p>
+</div>
+
+<div align="center">
+  <img src="profile.png" width="100px" alt="Signature">
 </div>
