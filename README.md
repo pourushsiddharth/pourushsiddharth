@@ -86,5 +86,5 @@ Thanks for stopping by! Feel free to connect with me and explore my projects. Le
 </div>
 
 <div align="center">
-  <img src="profile.png" width="100px" alt="Signature">
+  <img src="profile.png" width="200px" alt="Signature">
 </div>
