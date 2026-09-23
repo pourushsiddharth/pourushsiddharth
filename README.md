@@ -8,7 +8,8 @@ Building AI-powered products, backend systems, and developer-focused software.
 
 [Portfolio](https://pourushsiddharth.in) ·
 [GitHub](https://github.com/pourushsiddharth) ·
-[LinkedIn](https://www.linkedin.com/in/pourushsiddharth)
+[LinkedIn](https://www.linkedin.com/in/pourushsiddharth) ·
+[Twitter](https://twitter.com/pourushsidd)
 
 </div>
 
@@ -16,44 +17,43 @@ Building AI-powered products, backend systems, and developer-focused software.
 
 ## About
 
-I'm a Computer Science graduate focused on **Python development, AI engineering, backend systems, and product engineering**.
+I'm a Computer Science graduate and software developer focused on **Python, AI engineering, backend systems, and product engineering**.
 
-I build software end-to-end — from architecture and backend development to AI integration, deployment, and iteration.
+I enjoy building software end-to-end — from architecture and backend development to AI integration, deployment, and iteration.
 
-My current focus is on building **AI-powered applications, automation systems, developer tools, and scalable web products**.
+My current focus is on building **AI-powered applications, automation systems, developer tools, and scalable software products**.
 
-- Python and backend development
-- AI and LLM integrations
-- REST APIs and application architecture
-- Automation and developer tooling
-- Cloud infrastructure and deployment
-- Open-source software
+- Building with Python and modern backend technologies
+- Integrating LLMs and AI APIs into real-world applications
+- Designing APIs, databases, and application architecture
+- Exploring automation, cloud infrastructure, and developer tooling
+- Building and contributing to open-source software
 
 ---
 
 ## Technologies
 
-**Languages**
+### Languages
 
 `Python` `JavaScript` `TypeScript` `Java` `PHP`
 
-**Backend**
+### Backend
 
 `Flask` `Node.js` `Spring Boot` `REST APIs` `WebSockets`
 
-**Frontend**
+### Frontend
 
 `React` `Next.js` `HTML` `CSS` `Tailwind CSS`
 
-**Databases & Cloud**
+### Databases & Cloud
 
 `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Firebase` `AWS` `GCP`
 
-**AI**
+### AI
 
-`Gemini API` `Google AI Studio` `LLM Integration` `AI Automation`
+`Gemini API` `Google AI Studio` `LLM Integration` `Prompt Engineering` `AI Automation`
 
-**Tools**
+### Tools
 
 `Git` `GitHub` `Docker` `Linux` `VS Code`
 
@@ -67,15 +67,37 @@ A privacy-focused desktop browser built with Electron and Chromium, featuring ad
 
 [View Repository](https://github.com/pourushsiddharth/browser)
 
-### Personal Cloud
+### Libre Excel
 
-A lightweight self-hosted cloud storage application for managing files and building personal infrastructure.
+An open-source project focused on building a lightweight and modern spreadsheet experience for desktop users.
 
-[View Repository](https://github.com/pourushsiddharth/cloud)
+[View Repository](https://github.com/pourushsiddharth/libre-excel)
 
 ### EmotionFlow
 
 An AI-powered emotional mapping application combining conversational AI with structured assessment tools.
+
+[View Repository](https://github.com/pourushsiddharth/emotional-mapping)
+
+---
+
+## What I Build
+
+### AI Products
+
+Applications that use LLMs and AI APIs to solve practical problems and improve user experiences.
+
+### Backend Systems
+
+APIs, databases, authentication, real-time systems, and application architecture.
+
+### Developer Tools
+
+Software designed to improve workflows, productivity, and the developer experience.
+
+### Automation
+
+AI-powered workflows and integrations that reduce repetitive work and connect different systems.
 
 ---
 
@@ -83,9 +105,15 @@ An AI-powered emotional mapping application combining conversational AI with str
 
 I enjoy building and experimenting with software that solves practical problems.
 
-Currently exploring:
+My open-source work spans browser technology, productivity software, AI applications, developer tools, and automation.
 
-`AI Engineering` · `Backend Systems` · `Automation` · `Developer Tools` · `Open Source`
+[Explore my repositories](https://github.com/pourushsiddharth?tab=repositories)
+
+---
+
+## Current Focus
+
+`Python` · `AI Engineering` · `Backend Systems` · `Automation` · `Developer Tools` · `Open Source`
 
 ---
 
