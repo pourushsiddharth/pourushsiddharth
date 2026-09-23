@@ -6,7 +6,9 @@
 
 Building AI-powered products, backend systems, and developer-focused software.
 
-[Portfolio](https://pourushsiddharth.in) · [LinkedIn](https://www.linkedin.com/in/pourushsiddharth) · [Twitter](https://twitter.com/pourushsidd)
+[Portfolio](https://pourushsiddharth.in) ·
+[GitHub](https://github.com/pourushsiddharth) ·
+[LinkedIn](https://www.linkedin.com/in/pourushsiddharth)
 
 </div>
 
@@ -16,63 +18,44 @@ Building AI-powered products, backend systems, and developer-focused software.
 
 I'm a Computer Science graduate focused on **Python development, AI engineering, backend systems, and product engineering**.
 
-I like building software end-to-end — from designing the architecture and writing the backend to integrating AI, deploying the application, and improving it through iteration.
+I build software end-to-end — from architecture and backend development to AI integration, deployment, and iteration.
 
-My current focus is on building **useful AI-powered applications, automation systems, developer tools, and scalable web products**.
+My current focus is on building **AI-powered applications, automation systems, developer tools, and scalable web products**.
 
-- Building with Python, Flask, and modern backend technologies
-- Integrating LLMs and AI APIs into real-world products
-- Designing APIs, databases, and application architecture
-- Exploring automation, cloud infrastructure, and developer tooling
-- Building and contributing to open-source software
+- Python and backend development
+- AI and LLM integrations
+- REST APIs and application architecture
+- Automation and developer tooling
+- Cloud infrastructure and deployment
+- Open-source software
 
 ---
 
-## Core Stack
+## Technologies
 
-### Primary
+**Languages**
 
-`Python` `Flask` `JavaScript` `TypeScript`
+`Python` `JavaScript` `TypeScript` `Java` `PHP`
 
-### Backend
+**Backend**
 
-`Node.js` `Spring Boot` `REST APIs` `WebSockets`
+`Flask` `Node.js` `Spring Boot` `REST APIs` `WebSockets`
 
-### Frontend
+**Frontend**
 
 `React` `Next.js` `HTML` `CSS` `Tailwind CSS`
 
-### Data & Infrastructure
+**Databases & Cloud**
 
-`MySQL` `PostgreSQL` `MongoDB` `SQLite` `AWS` `GCP` `Firebase`
+`MySQL` `PostgreSQL` `MongoDB` `SQLite` `Firebase` `AWS` `GCP`
 
-### AI
+**AI**
 
-`Gemini API` `Google AI Studio` `LLM Integration` `Prompt Engineering` `AI Automation`
+`Gemini API` `Google AI Studio` `LLM Integration` `AI Automation`
 
-### Engineering
+**Tools**
 
 `Git` `GitHub` `Docker` `Linux` `VS Code`
-
----
-
-## What I Build
-
-**AI Products**
-
-Applications that use LLMs and AI APIs to solve practical problems.
-
-**Backend Systems**
-
-APIs, authentication, databases, real-time systems, and application architecture.
-
-**Developer Tools**
-
-Software that improves workflows, productivity, and the developer experience.
-
-**Automation**
-
-AI-powered workflows and integrations that eliminate repetitive work.
 
 ---
 
@@ -96,20 +79,22 @@ An AI-powered emotional mapping application combining conversational AI with str
 
 ---
 
-## GitHub
+## Open Source
 
-<div align="center">
+I enjoy building and experimenting with software that solves practical problems.
 
-<img src="https://github-readme-stats.vercel.app/api?username=pourushsiddharth&show_icons=true&hide_border=true&theme=transparent" height="165">
+Currently exploring:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourushsiddharth&layout=compact&hide_border=true&theme=transparent" height="165">
-
-</div>
+`AI Engineering` · `Backend Systems` · `Automation` · `Developer Tools` · `Open Source`
 
 ---
 
 <div align="center">
 
-[Portfolio](https://pourushsiddharth.in) · [GitHub](https://github.com/pourushsiddharth) · [LinkedIn](https://www.linkedin.com/in/pourushsiddharth)
+### Build. Ship. Improve.
+
+[Portfolio](https://pourushsiddharth.in) ·
+[GitHub](https://github.com/pourushsiddharth) ·
+[LinkedIn](https://www.linkedin.com/in/pourushsiddharth)
 
 </div>
